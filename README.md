@@ -1,13 +1,15 @@
 ### Hi there 👋
 
 # About Me
-Hello! I'm Yussif Adam, a 27-year-old student at the Bit Academy in Amsterdam, specializing in software development. My primary focus lies in working with SQL, Python, Power BI, and Excel. While I'm currently learning both front-end and back-end development as part of my course, my ultimate goal is to become a data analyst. I'm enthusiastic about learning and always eager to participate in new challenges.
+Hello! I'm Yussif Adam, a 27-year-old student at the Bit Academy in Amsterdam, specializing in software development. My primary focus lies in becoming a front-end developer, and I have knowledge in HTML, CSS, JavaScript, Python, Bootstrap, and I'm continuously learning more. Additionally, I have experience in data analysis and visualization, working with tools like Power BI, PostgreSQL, Excel, Azure, Jupyter Notebook and in backend development with PHP.
+
+While I'm currently learning both front-end and back-end development as part of my course, my ultimate goal is to become a proficient front-end developer. I'm enthusiastic about learning and always eager to participate in new challenges.
 
 # Interests and Skills
-Languages: SQL, Python
-Tools: Power BI, Excel
-Front-End: (I currently have basic understanding of html&css, and have completed my module)
-Back-End: (I currently have basic understanding of Php, and have completed my module )
+Languages: HTML, CSS, JavaScript, Python Eager to learn more :)
+Tools: Power BI, PostgreSQL, Excel, Azure Eager to learn more :)
+Front-End: HTML, CSS, JavaScript, Bootstrap Eager to learn more :)
+Back-End: PHP
 
 # Projects
 Here are some of the projects I've worked on so far:
@@ -20,11 +22,11 @@ AmazonFires - This project explores a dataset containing information about fores
 
 Mobile-Analysis - This project focuses on conducting a comprehensive analysis of mobile phones using SQL queries. The dataset encompasses key attributes such as brand, model, features, and prices of various mobile phones. These queries are tailored to extract specific insights for a Power BI dashboard.
 
+QuoteApp - this project is a quote app that i made that generates random quotes using api's. The quotes can then also be used on your twitter to post them and shows the author's name.
+
 # Looking for Internship Opportunities
 I'm currently seeking internship opportunities to further enhance my skills and gain practical experience. If you have any opportunities or would like to get in touch, feel free to contact me.
 
 Get in Touch
 LinkedIn: [www.linkedin.com/in/yussif-adam-8b9806258](https://www.linkedin.com/in/yussif-adam-8b9806258/)
 Email: yussif.adam@student.rocva.nl
-
-
