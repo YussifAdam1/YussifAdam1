@@ -24,6 +24,10 @@ Mobile-Analysis - This project focuses on conducting a comprehensive analysis of
 
 QuoteApp - this project is a quote app that i made that generates random quotes using api's. The quotes can then also be used on your twitter to post them and shows the author's name.
 
+WorldCup Analysis - This project shows a dashbord made in powerbi showing stats about the world cups that have been hosted between the year 1930-2024, it shows information
+about records such as the countries who have hosted the world cup the most or the countries with most attendace. I did this in my free time as i like football and to work
+with powerbi and wanted to enhance my visualization.
+
 # Looking for Internship Opportunities
 I'm currently seeking internship opportunities to further enhance my skills and gain practical experience. If you have any opportunities or would like to get in touch, feel free to contact me.
 
